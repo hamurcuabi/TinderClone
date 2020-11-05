@@ -1,4 +1,4 @@
-package com.simcoder.tinder.Chat;
+package com.test.tinder.Chat;
 
 /**
  * Created by manel on 10/31/2017.

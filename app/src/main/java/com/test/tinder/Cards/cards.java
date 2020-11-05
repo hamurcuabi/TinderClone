@@ -1,4 +1,4 @@
-package com.simcoder.tinder.Cards;
+package com.test.tinder.Cards;
 
 /**
  * Created by manel on 9/5/2017.

@@ -1,4 +1,4 @@
-package com.simcoder.tinder.Matches;
+package com.test.tinder.Matches;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,8 +7,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.simcoder.tinder.Chat.ChatActivity;
-import com.simcoder.tinder.R;
+import com.test.tinder.Chat.ChatActivity;
+import com.test.tinder.R;
 
 /**
  * Created by manel on 10/31/2017.

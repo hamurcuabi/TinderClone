@@ -1,4 +1,4 @@
-package com.simcoder.tinder.Chat;
+package com.test.tinder.Chat;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -8,8 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.bumptech.glide.Glide;
-import com.simcoder.tinder.R;
+import com.test.tinder.R;
 
 import java.util.List;
 
@@ -17,12 +16,12 @@ import java.util.List;
  * Created by manel on 10/31/2017.
  */
 
-public class ChatAdapter extends RecyclerView.Adapter<ChatViewHolders>{
-    private List<ChatObject> chatList;
-    private Context context;
+public class ChatAdapter extends RecyclerView.Adapter<ChatViewHolders> {
+    private final List<ChatObject> chatList;
+    private final Context context;
 
 
-    public ChatAdapter(List<ChatObject> matchesList, Context context){
+    public ChatAdapter(List<ChatObject> matchesList, Context context) {
         this.chatList = matchesList;
         this.context = context;
     }

@@ -1,4 +1,4 @@
-package com.simcoder.tinder.Matches;
+package com.test.tinder.Matches;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.bumptech.glide.Glide;
-import com.simcoder.tinder.R;
+import com.test.tinder.R;
 
 import java.util.List;
 
@@ -15,12 +15,12 @@ import java.util.List;
  * Created by manel on 10/31/2017.
  */
 
-public class MatchesAdapter extends RecyclerView.Adapter<MatchesViewHolders>{
-    private List<MatchesObject> matchesList;
-    private Context context;
+public class MatchesAdapter extends RecyclerView.Adapter<MatchesViewHolders> {
+    private final List<MatchesObject> matchesList;
+    private final Context context;
 
 
-    public MatchesAdapter(List<MatchesObject> matchesList, Context context){
+    public MatchesAdapter(List<MatchesObject> matchesList, Context context) {
         this.matchesList = matchesList;
         this.context = context;
     }

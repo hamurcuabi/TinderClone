@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "108033708610",
+    "firebase_url": "https://pettinder-492d1.firebaseio.com",
+    "project_id": "pettinder-492d1",
+    "storage_bucket": "pettinder-492d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108033708610:android:a55cb7e07bdbc23328d3db",
+        "android_client_info": {
+          "package_name": "com.motionsteel.pettinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108033708610-694jodn85k08u38inad3haldhj1ua5j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motionsteel.pettinder",
+            "certificate_hash": "f08539b5d2685d6574208cc875f086d036438704"
+          }
+        },
+        {
+          "client_id": "108033708610-i9je3enbhvjimo7v1m403m2m1t1koumg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motionsteel.pettinder",
+            "certificate_hash": "4f9547e93783e4fe93b67e86a090c99e1455ac56"
+          }
+        },
+        {
+          "client_id": "108033708610-rkdjcd38l0e6hcnogg5gdkr0p34ih2kt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motionsteel.pettinder",
+            "certificate_hash": "c13733cf773dfb52e429d3f4cc1a81bfe7f8ffae"
+          }
+        },
+        {
+          "client_id": "108033708610-1dl4oeo7cqvp898auqs6cvg681fjvuhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3PZ3-QdDHirnfasw3mjjaFxfiWLLlgOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108033708610-1dl4oeo7cqvp898auqs6cvg681fjvuhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108033708610:android:dd5bac9e23dfc1c128d3db",
+        "android_client_info": {
+          "package_name": "com.test.tinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108033708610-hn7sq6t69n1hg7c84kufi2j10rme8q76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.tinder",
+            "certificate_hash": "f08539b5d2685d6574208cc875f086d036438704"
+          }
+        },
+        {
+          "client_id": "108033708610-1dl4oeo7cqvp898auqs6cvg681fjvuhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3PZ3-QdDHirnfasw3mjjaFxfiWLLlgOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108033708610-1dl4oeo7cqvp898auqs6cvg681fjvuhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
